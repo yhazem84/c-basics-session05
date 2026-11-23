@@ -1,0 +1,16 @@
+D:\C# Projects\Route-academy\C#-Fundamentals\Assignment-04\bin\Debug\net10.0\Assignment-04.exe
+D:\C# Projects\Route-academy\C#-Fundamentals\Assignment-04\bin\Debug\net10.0\Assignment-04.deps.json
+D:\C# Projects\Route-academy\C#-Fundamentals\Assignment-04\bin\Debug\net10.0\Assignment-04.runtimeconfig.json
+D:\C# Projects\Route-academy\C#-Fundamentals\Assignment-04\bin\Debug\net10.0\Assignment-04.dll
+D:\C# Projects\Route-academy\C#-Fundamentals\Assignment-04\bin\Debug\net10.0\Assignment-04.pdb
+D:\C# Projects\Route-academy\C#-Fundamentals\Assignment-04\obj\Debug\net10.0\Assignment-04.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Route-academy\C#-Fundamentals\Assignment-04\obj\Debug\net10.0\Assignment-04.AssemblyInfoInputs.cache
+D:\C# Projects\Route-academy\C#-Fundamentals\Assignment-04\obj\Debug\net10.0\Assignment-04.AssemblyInfo.cs
+D:\C# Projects\Route-academy\C#-Fundamentals\Assignment-04\obj\Debug\net10.0\Assignment-04.csproj.CoreCompileInputs.cache
+D:\C# Projects\Route-academy\C#-Fundamentals\Assignment-04\obj\Debug\net10.0\Assignment-04.sourcelink.json
+D:\C# Projects\Route-academy\C#-Fundamentals\Assignment-04\obj\Debug\net10.0\Assignment-04.dll
+D:\C# Projects\Route-academy\C#-Fundamentals\Assignment-04\obj\Debug\net10.0\refint\Assignment-04.dll
+D:\C# Projects\Route-academy\C#-Fundamentals\Assignment-04\obj\Debug\net10.0\Assignment-04.pdb
+D:\C# Projects\Route-academy\C#-Fundamentals\Assignment-04\obj\Debug\net10.0\Assignment-04.genruntimeconfig.cache
+D:\C# Projects\Route-academy\C#-Fundamentals\Assignment-04\obj\Debug\net10.0\ref\Assignment-04.dll
+D:\C# Projects\Route-academy\C#-Fundamentals\Assignment-04\obj\Debug\net10.0\Assignme.1723E033.Up2Date
